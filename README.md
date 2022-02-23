@@ -12,4 +12,4 @@ This is a C project in which the user enters a numerical expression. Most of the
   
   The purpose of this program is to check if the numerical expression is valid, more specifically if all the brackets have been opend and closed correctly.
   
-  The program sloves the problem with the help of Stacks.
+  The program solves the problem with the help of Stacks.
